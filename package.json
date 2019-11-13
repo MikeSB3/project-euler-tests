@@ -1,7 +1,6 @@
 {
   "name": "sudoku",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack --mode development",
@@ -31,5 +30,14 @@
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeSB3/improved-webpack-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MikeSB3/improved-webpack-template/issues"
+  },
+  "homepage": "https://github.com/MikeSB3/improved-webpack-template#readme",
+  "description": ""
 }
